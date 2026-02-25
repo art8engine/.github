@@ -11,5 +11,6 @@ Through continuous learning and collaboration, we aim to turn creative ideas int
 - openmodel (ing..)
 - tools for jvm
 - ai products
+- subthetale (ing..)
 
 [do you want to know team leader a8e](https://rlaope.github.io/design.html)
