@@ -6,12 +6,7 @@ We are a team of growth-driven developers pursuing the intersection of art, engi
 
 Through continuous learning and collaboration, we aim to turn creative ideas into impactful technology.
 
-#### We made
-
-- openmodel (ing..)
-- tools for jvm
-- ai products
-- subthetale (ing..)
+Do AI Reasearch, Product Development, Design.
 
 [do you want to know team leader a8e](https://rlaope.github.io/design.html)
 
